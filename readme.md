@@ -1,6 +1,6 @@
 # Convert ODataMetadata to OpenAPI Spec
 
-Download the ODATA metadata from D365 from https://<tenant>.crm4.dynamics.com/Tools/SystemCustomization/WsdlProgramming/download.aspx?file=ODataV4Metadata
+Download the ODATA metadata from D365 from ```https://[tenant].crm4.dynamics.com/Tools/SystemCustomization/WsdlProgramming/download.aspx?file=ODataV4Metadata```
 
 Correct the path: c:\projects\odata-openapi\ODataV4Metadata.xml to point to the downloaded ODataV4Metadata.xml 
 
